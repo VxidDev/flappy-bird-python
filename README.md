@@ -39,6 +39,6 @@ open terminal and type in
 
 and finally run game by typing
 
-`python main.py`
+`python flappy-bird.py`
 
 # ***ENJOY THE GAME!***
